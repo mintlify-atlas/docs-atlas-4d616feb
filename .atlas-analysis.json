@@ -1,0 +1,32 @@
+{
+  "projectType": "general",
+  "projectName": "David Galindo's GitHub Profile",
+  "projectDescription": "Personal GitHub profile configuration showcasing David Alejandro's web development skills and experience from Aguascalientes, México.",
+  "theme": "almond",
+  "primaryColor": "#FF5D01",
+  "lightColor": "#FF8534",
+  "darkColor": "#CC4A00",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Overview",
+        "pages": ["introduction", "about"]
+      },
+      {
+        "group": "Professional",
+        "pages": ["skills", "projects", "contact"]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Personal introduction and background",
+    "Technology stack and skills showcase",
+    "Professional goals and interests",
+    "Contact and social links"
+  ],
+  "publicApiSurface": [
+    "Profile README.md",
+    "Technology badges",
+    "Personal information sections"
+  ]
+}
